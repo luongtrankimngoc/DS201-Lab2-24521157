@@ -30,7 +30,7 @@ DS201_Lab2_24521157/
 
 ## Cài đặt
 
-Có thể chạy notebook trên Google Colab hoặc môi trường Python cục bộ.
+Có thể chạy notebook trên Google Colab, Kaggle hoặc môi trường Python cục bộ.
 
 ```bash
 pip install -r requirements.txt
