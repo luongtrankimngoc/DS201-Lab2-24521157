@@ -42,8 +42,6 @@ Khuyến nghị sử dụng GPU cho ResNet-18 và ResNet-50.
 
 Bài sử dụng **VinaFood21**. Dataset không được commit lên repository để tránh làm repo quá lớn.
 
-Notebook có sẵn code tải và giải nén dữ liệu từ Google Drive. Nếu dữ liệu chỉ gồm `train/` và `test/`, tập validation được tách từ train với seed `42` để các mô hình dùng cùng một phép chia dữ liệu.
-
 ## Cách chạy
 
 1. Mở `24521157_Lab2.ipynb` bằng Google Colab hoặc Jupyter Notebook.
